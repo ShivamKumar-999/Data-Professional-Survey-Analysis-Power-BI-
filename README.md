@@ -65,4 +65,5 @@ Provides valuable insights for:
 • Work-Life Balance vs Salary Satisfaction (KPI Cards)
 • Career Difficulty Breakdown (Donut Chart)
 
-Screenshort (https://github.com/ShivamKumar-999/Data-Professional-Survey-Analysis-Power-BI-/blob/main/Data%20Professional%20Survey.png)
+Screenshort <img width="1423" height="805" alt="Data Professional Survey" src="https://github.com/user-attachments/assets/69f1a9f4-2ee7-4e6b-8fd3-0065217d3f86" />
+
