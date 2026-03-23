@@ -64,3 +64,5 @@ Provides valuable insights for:
 • Country Distribution (Map/Bar Chart)
 • Work-Life Balance vs Salary Satisfaction (KPI Cards)
 • Career Difficulty Breakdown (Donut Chart)
+
+Screenshort (https://github.com/ShivamKumar-999/Data-Professional-Survey-Analysis-Power-BI-/blob/main/Data%20Professional%20Survey.png)
